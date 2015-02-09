@@ -4,7 +4,7 @@ import javax.swing.JOptionPane;
 public class HelloWorld {
 
 	public static void main(String[] args) {
-		JOptionPane.showConfirmDialog(null, "Hello World");
+		JOptionPane.showConfirmDialog(null, "LOLOLOLOLOLOLOLOLOLOLOL");
 		try{
 			System.getProperty("user.dir");
 			JOptionPane.showMessageDialog(null, "gelukt!");
